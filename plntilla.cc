@@ -14,7 +14,10 @@ using namespace std;
 #define allr(object) object.rbegin(), object.rend()
 #define Csort(object) sort(all(object))
 #define Csortr(object) sort(allr(object))
-#define p(typeA ,typeB) pair<typeA,typeB> 
+#define p(typeA ,typeB) pair<typeA,typeB>
+#define debug                            \
+    freopen("input.txt", "r", stdin); \
+    freopen("output.txt", "w", stdout);
 //typedef's 
 typedef unsigned int ui;
 typedef long long int lli;
