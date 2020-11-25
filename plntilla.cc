@@ -8,6 +8,8 @@ using namespace std;
 #define rforx(var, l, r) for (int var = l; var >= r;var--)
 #define all(object) object.begin(), object.end()
 #define allr(object) object.rbegin(), object.rend()
+#define Csort(object) sort(all(object))
+#define Csortr(object) sort(allr(object))
 //typedef's 
 typedef unsigned int ui;
 typedef long long int lli;
@@ -17,9 +19,6 @@ typedef v(lli) vlli;
 typedef v(int64) vi64;
 typedef v(ui) vui;
 int main(){
-    /*
-        1 3 2 // 1 2 3
-        r// 3 2 1
-    */
+
     return 0;
 }
