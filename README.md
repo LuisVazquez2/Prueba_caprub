@@ -1,2 +1,2 @@
 # Prueba_caprub
-*Basic template for beginners in competitive programing
+*Basic template for beginners in competitive programing*
